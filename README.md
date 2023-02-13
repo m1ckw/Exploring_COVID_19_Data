@@ -5,7 +5,7 @@ There are two main tasks for this assignment:
 - Data analytics tasks to perform data analysis and descriptive analytics on COVID-19 (96%).
 
 <hr class="solid">
-#### Class Metrics
+### Class Metrics
 
 Grade > 80% => 10% of class<br>
 Grade > 70% < 80% => 9%<br>

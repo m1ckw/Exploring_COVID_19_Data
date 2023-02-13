@@ -1,11 +1,8 @@
 # SIT112 Data Science Concepts
 ### Deakin University Unit
 There are two main tasks for this assignment:
-- Construction of the data dictionary and
-- Data analytics tasks to perform data analysis and descriptive analytics on COVID-19.
-
-### Part 1 : 100%
-### Part 2 : 96%
+- Construction of the data dictionary (100%) and
+- Data analytics tasks to perform data analysis and descriptive analytics on COVID-19 (96%).
 
 <hr class="solid">
 #### Class Metrics

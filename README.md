@@ -1,5 +1,5 @@
 # SIT112 Data Science Concepts
-### Assignment #1
+### Deakin University Unit
 
 #### Task
 There are two main tasks for this assignment:
